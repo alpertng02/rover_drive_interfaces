@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(rover_drive_interfaces)
+project(rover_mobility_interfaces)
 
 if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
   add_compile_options(-Wall -Wextra -Wpedantic)
