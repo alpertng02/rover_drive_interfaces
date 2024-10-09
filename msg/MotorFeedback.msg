@@ -1,3 +1,3 @@
 float32 dutycycle
-int32 encoder_rpm
+int32 rpm
 float32 current
